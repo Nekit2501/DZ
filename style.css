@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(231, 240, 232);
+}
+.herobord
+{
+    background: #2F303A;}
+.herotxt
+{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    color: #FFFFFF;
+    }
+    .herobutt
+    {
+        background: #2196F3;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);}
+        .txtbut
+        {
+            font-family: 'Roboto';
+            font-style: normal;
+            display: flex;
+            color: #FFFFFF;
+            }
